@@ -1,22 +1,12 @@
-Welcome to Lumache's documentation!
+Welcome to the HeavenStudio Wiki!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+Use this guide to learn how to use the software, interact with the editor, and get started making your own remixes!
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+This wiki is divided into three major parts:
 
-.. note::
+* General Usage
+* Editor Controls and Usage
+* Editor Minigame Rundown
 
-   This project is under active development.
-
-Contents
---------
-
-.. toctree::
-
-   usage
-   api
+This wiki does *not* list controls for playing individual games. For help with that, consult the dedicated control guide `here <https://heaven-studio-control-guide.super.site/>`_!
