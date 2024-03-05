@@ -1,9 +1,12 @@
-Template for the Read the Docs tutorial
+Read the Docs Wiki for Heaven Studio
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+This wiki contains usage info for the Heaven Studio Editor, including: 
 
-Read the tutorial here:
+* Basic 'Get Started' tutorial
+* Editor tool usage
+* Individual minigame blocks
+* Remix best practices
+* Useful external tools
 
-https://docs.readthedocs.io/en/stable/tutorial/
+The wiki is currently under construction, and not all of these may yet be implemented.
