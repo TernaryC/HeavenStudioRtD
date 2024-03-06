@@ -21,8 +21,19 @@ Online file converters do exist, but can often result in extra compression or qu
 
 ## BPM and Offset
 
+### Tempo Finder
+
 Heaven Studio has a built-in Tempo Finder tool, used to deduce the BPM of a song by the user tapping in rhythm as it plays.
 
-![The Tempo Finder can be activated by selecting the pointing icon in the top bar of the Editor.](assets/tempofinder-cropped.png)
+![The Tempo Finder can be activated by selecting the pointing finger icon in the top bar of the Editor.](assets/tempofinder-cropped.png)
 
-This is an effective way of getting your song's BPM, but can be inaccurate if you don't already have a good sense of rhythm or if you mispress.
+### Other Tools
+
+Another option for finding your BPM is to use external software, such as [ArrowVortex](https://arrowvortex.ddrnl.com/).
+ArrowVortex is a tool for creating DDR/ITG charts, but is insanely useful for any rhythm game charter for it's BPM and Offset tools, as well as others.
+
+To find the BPM and Offset of a song using ArrowVortex, use the Adjust Sync menu.
+
+![Open the Tempo menu and select "Adjust sync..." (or press Shift+T)](assets/arrowvortex-sync.png)
+
+![](assets/arrowvortex-adjust-find.png)
