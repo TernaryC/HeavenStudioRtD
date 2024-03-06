@@ -23,6 +23,6 @@ Online file converters do exist, but can often result in extra compression or qu
 
 Heaven Studio has a built-in Tempo Finder tool, used to deduce the BPM of a song by the user tapping in rhythm as it plays.
 
-![The Tempo Finder can be activated by selecting the pointing icon in the top bar of the Editor.](assets/tempofinder.png)
+![The Tempo Finder can be activated by selecting the pointing icon in the top bar of the Editor.](assets/tempofinder-cropped.png)
 
-This is an effective way of getting your song's BPM, but can be inaccurate if you don't already have a good sense of rhythm or mispress.
+This is an effective way of getting your song's BPM, but can be inaccurate if you don't already have a good sense of rhythm or if you mispress.
