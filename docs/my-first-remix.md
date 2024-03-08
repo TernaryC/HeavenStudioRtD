@@ -32,7 +32,7 @@ Offset can be tricker to find. As far as manual approaches go, this page's autho
 Check how many milliseconds into the song your first "beat marker" is in Heaven Studio. Then load your song into Audacity (or any similar audio editing software), and check how many milliseconds in the first audible beat of the song is. Subtract the second time from the first to get your offset. Make adjustments to further increase the accuracy by using the Metronome tool to check for any slight error.
 
 ![The milliseconds of a beat can be found underneath the "Beat 1.000" indicator at the top-left of the timeline.](assets/tempofinder-offset-milli.png)
-![In Audacity, after moving the cursor to the start of your first beat, the milliseconds can be found in the Audio Position indicator at the bottom of the screen.](assets/tempofinder-offset-aud.png)
+![In Audacity, after moving the cursor to the start of your first beat, the milliseconds can be found in the Audio Position indicator at the bottom of the screen.](assets/tempofinder-offset-audacity.png)
 
 ### Other Tools
 
